@@ -1,0 +1,12 @@
+
+
+This directory contains a static copy of all the ravel files.  This was written to work within the SPOT project.  It may take some work for this to fully function as a standalone.
+
+Notable upgrades from the last Ravel include:
+The ability to switch between the two graph types
+Turning message lines on and off
+Multi-Instance support
+Open and close within Spot
+Legend
+
+
