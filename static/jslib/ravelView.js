@@ -1,13 +1,7 @@
 /*
    TODO:
-   - MULTI INSTANCE: Split and Ravel were only designed for 1 instance, may need some work to enable more than 1 instance.
-      * chart type toggle: physical and logical needs to be able to switch independently
-      * overview bar needs to not be fully widened when you add a new chart.
-   - write another email to Matt, for data.  Ask matt about aggregated wait.
    - wire up actual file location to the thing being used.
    - be able to handle resize width?
-   - What is AW? and need to show it on all boxes. "Aggregated..."
-   - BUG: AW does not move in lockstep.
    - Show tooltip with word representation for each div element?
    - BUG: (small) Extent is slightly not aligned with initial graph output, resulting in a drag jitter when it starts.
    - setTimeout: BUG: still need to fix initial render -> step doesn't appear until you move the brush.
@@ -35,6 +29,9 @@
    - only show close ravel diagram button if there.
    - Be able to reopen ravel diagram after closing.
    - Added some error checking, function numbers.
+   - MULTI INSTANCE: Split and Ravel were only designed for 1 instance, may need some work to enable more than 1 instance.
+      * chart type toggle: physical and logical needs to be able to switch independently
+      * overview bar needs to not be fully widened when you add a new chart.
 
 
    *********************************************************************************************************************************
